@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Sohoz" duration-ms="95130" started-at="2020-11-15T17:15:49 BDT" finished-at="2020-11-15T17:17:25 BDT">
+    <groups>
+    </groups>
+    <test name="Ticket" duration-ms="95130" started-at="2020-11-15T17:15:49 BDT" finished-at="2020-11-15T17:17:25 BDT">
+      <class name="com.testcases.sohoz.TC_Search_001">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.testcases.sohoz.TC_Search_001@fad74ee]" name="setup" is-config="true" duration-ms="67106" started-at="2020-11-15T17:15:50 BDT" finished-at="2020-11-15T17:16:57 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchpage()[pri:0, instance:com.testcases.sohoz.TC_Search_001@fad74ee]" name="searchpage" duration-ms="22612" started-at="2020-11-15T17:16:57 BDT" finished-at="2020-11-15T17:17:19 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchpage -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcases.sohoz.TC_Search_001@fad74ee]" name="teardown" is-config="true" duration-ms="5184" started-at="2020-11-15T17:17:19 BDT" finished-at="2020-11-15T17:17:25 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.testcases.sohoz.TC_Search_001 -->
+    </test> <!-- Ticket -->
+  </suite> <!-- Sohoz -->
+</testng-results>
